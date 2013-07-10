@@ -11,6 +11,14 @@ git clone https://github.com/startup-class/setup.git
 ./setup/setup.sh   
 ```
 
+Although now, it should be
+```sh
+cd $HOME
+sudo apt-get install -y git-core
+git clone https://github.com/Smirnoff/serversetup.git
+./setup/setup.sh   
+```
+
 See also http://github.com/startup-class/dotfiles and
 [Startup Engineering Video Lectures 4a/4b](https://class.coursera.org/startup-001/lecture/index)
 for more details.
