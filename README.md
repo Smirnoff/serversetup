@@ -16,7 +16,7 @@ Although now, it should be
 cd $HOME
 sudo apt-get install -y git-core
 git clone https://github.com/Smirnoff/serversetup.git
-./setup/setup.sh   
+./serversetup/setup.sh   
 ```
 
 See also http://github.com/startup-class/dotfiles and
